@@ -19,11 +19,7 @@ body {font-family:Arial, Helvetica, sans-serif;font-size:12px;line-height:17px;c
 /* header */
 #header {background:url(images/header.jpg) no-repeat top left;width:1032px;height:317px}
 /* menu */
-#menu {background:url(images/menu_bg.jpg) repeat-x top;height:83px;text-align:center}
-#menu ul {padding-left:0;list-style:none;width:800px;margin:0 auto}
-#menu ul li {display:inline}
-#menu ul li a {font:24px Arial, Helvetica, sans-serif;color:#fff;text-align:center;font-weight:normal;text-decoration:none;display:block;float:left;width:160px;height:83px;line-height:83px}
-#menu ul li a:hover, #menu ul li .active {color:#FF0}
+
 /*logo*/
 #logo {width:1076px;margin:0 auto;height:82px;padding-top:30px}
 #logo h1 a {font:14px Arial, Helvetica, sans-serif;color:#fff;font-weight:bold;text-decoration:none}
@@ -34,9 +30,7 @@ body {font-family:Arial, Helvetica, sans-serif;font-size:12px;line-height:17px;c
 #column2 {margin:0px 31px 0 35px}
 #column_box .read {width:128px;height:34px;display:block;text-align:center;font:18px Arial, Helvetica, sans-serif;color:#006;line-height:34px;font-weight:normal;margin-top:15px}
 /* last box */
-#last_box {background:url(images/last_box200px.jpg) no-repeat left top;height:200px;margin-top:10px}
-#last_box p {color:#666}
-#last_box p a {font-weight:bold;color:#006;font-size:14px}
+
 /* footer_top */
 #footer_top_top {background:url(images/footer_top_top.jpg) no-repeat top left;height:24px;margin-top:17px}
 #footer_top_bot {background:url(images/footer_top_bot.jpg) no-repeat top left;height:27px}
@@ -71,9 +65,4 @@ body {font-family:Arial, Helvetica, sans-serif;font-size:12px;line-height:17px;c
 .nivo-controlNav a {display:block;width:22px;height:22px;background:url(images/bullets.png) no-repeat;text-indent:-9999px;border:0;margin-right:3px;float:left}
 .nivo-controlNav a.active {background-position:0 -22px}
 .nivo-directionNav a {display:block;width:30px;height:30px;background:url(images/arrows.png) no-repeat;text-indent:-9999px;border:0}
-a.nivo-nextNav {background-position:-30px 0;right:15px}
-a.nivo-prevNav {left:15px}
-.nivo-caption {text-shadow:none;font-family:Helvetica, Arial, sans-serif}
-.nivo-caption a {color:#efe9d1;text-decoration:underline}
-.gelb {color:#FFC}
-#bg_black #wrap #last_box table tr td {color:#333}
+/*a. nivo-nextNav*/
